@@ -3,6 +3,9 @@
  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ 
+ alert("The Ikomi’s and Technology bosses heartily wishes you a Happy Christmas Day and Prosperous New Year 2024 with all it's goodies.May the Almighty God shower you and your entirely family with his blessings..")
+ 
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.js')) :
     typeof define === 'function' && define.amd ? define(['exports', 'jquery', 'popper.js'], factory) :
